@@ -1,0 +1,13 @@
+{
+  "name": "pandoa",
+  "version": "1.0.1",
+  "description": "An closure compiler inspired by Google, made for fun",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "node inter.js"
+  },
+  "keywords": ["pandoa", "closure-compiler"],
+  "author": "wojtekgame",
+  "license": "MIT"
+}
